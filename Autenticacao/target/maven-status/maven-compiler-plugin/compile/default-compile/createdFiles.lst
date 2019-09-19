@@ -1,0 +1,5 @@
+Autentticacao\Autenticacao\Usuario.class
+Rest\AutenticadorResource.class
+Service\Service.class
+Service\ServiceImpl.class
+Autentticacao\Autenticacao\App.class
